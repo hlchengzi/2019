@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ApplicationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-04-09T12:00:18" hostname="DESKTOP-204E5SC" time="0.001">
+  <properties/>
+  <testcase name="main" classname="ApplicationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
