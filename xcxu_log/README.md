@@ -1,9 +1,9 @@
 
 ![image.png](https://upload-images.jianshu.io/upload_images/13458543-dccf7631da0b3d89.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-##技术栈：< br >
-####框架< br >
-**SpringBoot**< br >
-表现层：SpringMVC< br >
+##技术栈:
+####框架
+**SpringBoot**
+表现层：SpringMVC
 持久层：Spring JPA
 ####数据库
 MySQL
